@@ -121,6 +121,9 @@ a:link {
     position: relative;
 }
 
+/*
+using float & clear command
+*/
 #project1 {
     margin: 20px;
     top: 10;
